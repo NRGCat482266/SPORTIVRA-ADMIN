@@ -1,0 +1,4853 @@
+[
+  {
+    "id": "worldcup",
+    "title": "🏆 Mundial",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "worldcup-pet-01",
+        "name": "Mundial — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "worldcup-pet-02",
+        "name": "Mundial — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "worldcup-pet-03",
+        "name": "Mundial — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "worldcup-pet-04",
+        "name": "Mundial — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "worldcup-pet-05",
+        "name": "Mundial — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "worldcup-pet-06",
+        "name": "Mundial — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "worldcup-pet-07",
+        "name": "Mundial — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "worldcup-pet-08",
+        "name": "Mundial — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "worldcup-pet-09",
+        "name": "Mundial — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "worldcup-pet-10",
+        "name": "Mundial — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "worldcup-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "worldcup-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "worldcup-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "worldcup-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "worldcup-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "worldcup-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "worldcup-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "worldcup-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "worldcup-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "worldcup-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "worldcup-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "worldcup-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "worldcup-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "worldcup-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "worldcup-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "worldcup-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "worldcup-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "worldcup-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "worldcup-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "worldcup-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "worldcup-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "worldcup-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "worldcup-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "worldcup-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "worldcup-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "worldcup-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "worldcup-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "worldcup-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "worldcup-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "euro",
+    "title": "⚽ EURO",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "euro-pet-01",
+        "name": "EURO — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "euro-pet-02",
+        "name": "EURO — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "euro-pet-03",
+        "name": "EURO — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "euro-pet-04",
+        "name": "EURO — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "euro-pet-05",
+        "name": "EURO — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "euro-pet-06",
+        "name": "EURO — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "euro-pet-07",
+        "name": "EURO — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "euro-pet-08",
+        "name": "EURO — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "euro-pet-09",
+        "name": "EURO — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "euro-pet-10",
+        "name": "EURO — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "euro-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "euro-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "euro-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "euro-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "euro-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "euro-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "euro-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "euro-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "euro-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "euro-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "euro-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "euro-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "euro-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "euro-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "euro-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "euro-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "euro-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "euro-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "euro-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "euro-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "euro-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "euro-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "euro-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "euro-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "euro-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "euro-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "euro-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "euro-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "euro-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "uclfinal",
+    "title": "🥇 Finał Ligi Mistrzów",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "uclfinal-pet-01",
+        "name": "Finał Ligi Mistrzów — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "uclfinal-pet-02",
+        "name": "Finał Ligi Mistrzów — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "uclfinal-pet-03",
+        "name": "Finał Ligi Mistrzów — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "uclfinal-pet-04",
+        "name": "Finał Ligi Mistrzów — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "uclfinal-pet-05",
+        "name": "Finał Ligi Mistrzów — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "uclfinal-pet-06",
+        "name": "Finał Ligi Mistrzów — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "uclfinal-pet-07",
+        "name": "Finał Ligi Mistrzów — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "uclfinal-pet-08",
+        "name": "Finał Ligi Mistrzów — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "uclfinal-pet-09",
+        "name": "Finał Ligi Mistrzów — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "uclfinal-pet-10",
+        "name": "Finał Ligi Mistrzów — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "uclfinal-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "uclfinal-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "uclfinal-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "uclfinal-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "uclfinal-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "uclfinal-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "uclfinal-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "uclfinal-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "uclfinal-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "uclfinal-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "uclfinal-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "uclfinal-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "uclfinal-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "uclfinal-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "uclfinal-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "uclfinal-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "uclfinal-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "uclfinal-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "uclfinal-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "uclfinal-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "uclfinal-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "uclfinal-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "uclfinal-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "uclfinal-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "uclfinal-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "uclfinal-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "uclfinal-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "uclfinal-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "uclfinal-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "olympics",
+    "title": "🥇 Igrzyska Olimpijskie",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "olympics-pet-01",
+        "name": "Igrzyska Olimpijskie — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "olympics-pet-02",
+        "name": "Igrzyska Olimpijskie — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "olympics-pet-03",
+        "name": "Igrzyska Olimpijskie — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "olympics-pet-04",
+        "name": "Igrzyska Olimpijskie — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "olympics-pet-05",
+        "name": "Igrzyska Olimpijskie — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "olympics-pet-06",
+        "name": "Igrzyska Olimpijskie — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "olympics-pet-07",
+        "name": "Igrzyska Olimpijskie — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "olympics-pet-08",
+        "name": "Igrzyska Olimpijskie — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "olympics-pet-09",
+        "name": "Igrzyska Olimpijskie — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "olympics-pet-10",
+        "name": "Igrzyska Olimpijskie — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "olympics-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "olympics-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "olympics-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "olympics-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "olympics-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "olympics-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "olympics-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "olympics-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "olympics-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "olympics-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "olympics-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "olympics-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "olympics-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "olympics-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "olympics-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "olympics-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "olympics-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "olympics-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "olympics-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "olympics-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "olympics-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "olympics-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "olympics-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "olympics-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "olympics-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "olympics-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "olympics-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "olympics-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "olympics-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "f1final",
+    "title": "🏎️ Finał sezonu F1",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "f1final-pet-01",
+        "name": "Finał sezonu F1 — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "f1final-pet-02",
+        "name": "Finał sezonu F1 — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "f1final-pet-03",
+        "name": "Finał sezonu F1 — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "f1final-pet-04",
+        "name": "Finał sezonu F1 — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "f1final-pet-05",
+        "name": "Finał sezonu F1 — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "f1final-pet-06",
+        "name": "Finał sezonu F1 — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "f1final-pet-07",
+        "name": "Finał sezonu F1 — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "f1final-pet-08",
+        "name": "Finał sezonu F1 — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "f1final-pet-09",
+        "name": "Finał sezonu F1 — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "f1final-pet-10",
+        "name": "Finał sezonu F1 — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "f1final-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "f1final-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "f1final-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "f1final-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "f1final-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "f1final-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "f1final-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "f1final-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "f1final-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "f1final-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "f1final-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "f1final-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "f1final-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "f1final-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "f1final-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "f1final-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "f1final-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "f1final-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "f1final-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "f1final-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "f1final-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "f1final-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "f1final-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "f1final-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "f1final-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "f1final-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "f1final-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "f1final-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "f1final-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "volleyworld",
+    "title": "🏐 MŚ w siatkówce",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "volleyworld-pet-01",
+        "name": "MŚ w siatkówce — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "volleyworld-pet-02",
+        "name": "MŚ w siatkówce — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "volleyworld-pet-03",
+        "name": "MŚ w siatkówce — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "volleyworld-pet-04",
+        "name": "MŚ w siatkówce — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "volleyworld-pet-05",
+        "name": "MŚ w siatkówce — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "volleyworld-pet-06",
+        "name": "MŚ w siatkówce — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "volleyworld-pet-07",
+        "name": "MŚ w siatkówce — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "volleyworld-pet-08",
+        "name": "MŚ w siatkówce — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "volleyworld-pet-09",
+        "name": "MŚ w siatkówce — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "volleyworld-pet-10",
+        "name": "MŚ w siatkówce — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "volleyworld-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "volleyworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "volleyworld-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "volleyworld-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "volleyworld-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "volleyworld-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "volleyworld-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "volleyworld-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "volleyworld-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "volleyworld-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "volleyworld-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "volleyworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "volleyworld-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "volleyworld-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "volleyworld-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "volleyworld-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "volleyworld-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "volleyworld-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "volleyworld-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "volleyworld-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "volleyworld-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "volleyworld-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "volleyworld-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "volleyworld-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "volleyworld-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "volleyworld-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "volleyworld-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "volleyworld-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "volleyworld-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "basketworld",
+    "title": "🏀 MŚ w koszykówce",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "basketworld-pet-01",
+        "name": "MŚ w koszykówce — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "basketworld-pet-02",
+        "name": "MŚ w koszykówce — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "basketworld-pet-03",
+        "name": "MŚ w koszykówce — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "basketworld-pet-04",
+        "name": "MŚ w koszykówce — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "basketworld-pet-05",
+        "name": "MŚ w koszykówce — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "basketworld-pet-06",
+        "name": "MŚ w koszykówce — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "basketworld-pet-07",
+        "name": "MŚ w koszykówce — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "basketworld-pet-08",
+        "name": "MŚ w koszykówce — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "basketworld-pet-09",
+        "name": "MŚ w koszykówce — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "basketworld-pet-10",
+        "name": "MŚ w koszykówce — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "basketworld-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "basketworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "basketworld-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "basketworld-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "basketworld-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "basketworld-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "basketworld-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "basketworld-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "basketworld-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "basketworld-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "basketworld-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "basketworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "basketworld-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "basketworld-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "basketworld-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "basketworld-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "basketworld-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "basketworld-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "basketworld-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "basketworld-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "basketworld-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "basketworld-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "basketworld-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "basketworld-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "basketworld-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "basketworld-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "basketworld-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "basketworld-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "basketworld-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "handballworld",
+    "title": "🤾 MŚ w piłce ręcznej",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "handballworld-pet-01",
+        "name": "MŚ w piłce ręcznej — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "handballworld-pet-02",
+        "name": "MŚ w piłce ręcznej — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "handballworld-pet-03",
+        "name": "MŚ w piłce ręcznej — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "handballworld-pet-04",
+        "name": "MŚ w piłce ręcznej — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "handballworld-pet-05",
+        "name": "MŚ w piłce ręcznej — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "handballworld-pet-06",
+        "name": "MŚ w piłce ręcznej — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "handballworld-pet-07",
+        "name": "MŚ w piłce ręcznej — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "handballworld-pet-08",
+        "name": "MŚ w piłce ręcznej — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "handballworld-pet-09",
+        "name": "MŚ w piłce ręcznej — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "handballworld-pet-10",
+        "name": "MŚ w piłce ręcznej — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "handballworld-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "handballworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "handballworld-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "handballworld-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "handballworld-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "handballworld-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "handballworld-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "handballworld-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "handballworld-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "handballworld-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "handballworld-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "handballworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "handballworld-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "handballworld-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "handballworld-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "handballworld-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "handballworld-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "handballworld-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "handballworld-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "handballworld-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "handballworld-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "handballworld-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "handballworld-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "handballworld-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "handballworld-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "handballworld-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "handballworld-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "handballworld-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "handballworld-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "esportsworld",
+    "title": "🎮 MŚ w esporcie",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "esportsworld-pet-01",
+        "name": "MŚ w esporcie — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "esportsworld-pet-02",
+        "name": "MŚ w esporcie — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "esportsworld-pet-03",
+        "name": "MŚ w esporcie — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "esportsworld-pet-04",
+        "name": "MŚ w esporcie — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "esportsworld-pet-05",
+        "name": "MŚ w esporcie — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "esportsworld-pet-06",
+        "name": "MŚ w esporcie — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "esportsworld-pet-07",
+        "name": "MŚ w esporcie — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "esportsworld-pet-08",
+        "name": "MŚ w esporcie — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "esportsworld-pet-09",
+        "name": "MŚ w esporcie — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "esportsworld-pet-10",
+        "name": "MŚ w esporcie — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "esportsworld-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "esportsworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "esportsworld-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "esportsworld-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "esportsworld-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "esportsworld-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "esportsworld-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "esportsworld-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "esportsworld-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "esportsworld-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "esportsworld-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "esportsworld-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "esportsworld-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "esportsworld-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "esportsworld-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "esportsworld-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "esportsworld-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "esportsworld-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "esportsworld-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "esportsworld-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "esportsworld-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "esportsworld-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "esportsworld-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "esportsworld-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "esportsworld-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "esportsworld-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "esportsworld-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "esportsworld-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "esportsworld-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "nba",
+    "title": "🏀 Finały NBA",
+    "category": "sport",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "nba-pet-01",
+        "name": "Finały NBA — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "nba-pet-02",
+        "name": "Finały NBA — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "nba-pet-03",
+        "name": "Finały NBA — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "nba-pet-04",
+        "name": "Finały NBA — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "nba-pet-05",
+        "name": "Finały NBA — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "nba-pet-06",
+        "name": "Finały NBA — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "nba-pet-07",
+        "name": "Finały NBA — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "nba-pet-08",
+        "name": "Finały NBA — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "nba-pet-09",
+        "name": "Finały NBA — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "nba-pet-10",
+        "name": "Finały NBA — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "nba-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "nba-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "nba-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "nba-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "nba-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "nba-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "nba-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "nba-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "nba-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "nba-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "nba-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "nba-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "nba-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "nba-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "nba-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "nba-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "nba-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "nba-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "nba-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "nba-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "nba-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "nba-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "nba-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "nba-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "nba-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "nba-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "nba-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "nba-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "nba-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "halloween",
+    "title": "🎃 Halloween",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "halloween-pet-01",
+        "name": "Halloween — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "halloween-pet-02",
+        "name": "Halloween — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "halloween-pet-03",
+        "name": "Halloween — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "halloween-pet-04",
+        "name": "Halloween — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "halloween-pet-05",
+        "name": "Halloween — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "halloween-pet-06",
+        "name": "Halloween — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "halloween-pet-07",
+        "name": "Halloween — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "halloween-pet-08",
+        "name": "Halloween — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "halloween-pet-09",
+        "name": "Halloween — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "halloween-pet-10",
+        "name": "Halloween — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "halloween-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "halloween-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "halloween-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "halloween-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "halloween-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "halloween-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "halloween-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "halloween-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "halloween-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "halloween-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "halloween-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "halloween-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "halloween-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "halloween-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "halloween-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "halloween-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "halloween-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "halloween-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "halloween-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "halloween-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "halloween-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "halloween-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "halloween-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "halloween-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "halloween-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "halloween-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "halloween-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "halloween-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "halloween-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "christmas",
+    "title": "🎄 Boże Narodzenie",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "christmas-pet-01",
+        "name": "Boże Narodzenie — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "christmas-pet-02",
+        "name": "Boże Narodzenie — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "christmas-pet-03",
+        "name": "Boże Narodzenie — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "christmas-pet-04",
+        "name": "Boże Narodzenie — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "christmas-pet-05",
+        "name": "Boże Narodzenie — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "christmas-pet-06",
+        "name": "Boże Narodzenie — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "christmas-pet-07",
+        "name": "Boże Narodzenie — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "christmas-pet-08",
+        "name": "Boże Narodzenie — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "christmas-pet-09",
+        "name": "Boże Narodzenie — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "christmas-pet-10",
+        "name": "Boże Narodzenie — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "christmas-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "christmas-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "christmas-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "christmas-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "christmas-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "christmas-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "christmas-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "christmas-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "christmas-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "christmas-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "christmas-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "christmas-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "christmas-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "christmas-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "christmas-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "christmas-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "christmas-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "christmas-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "christmas-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "christmas-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "christmas-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "christmas-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "christmas-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "christmas-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "christmas-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "christmas-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "christmas-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "christmas-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "christmas-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "easter",
+    "title": "🐣 Wielkanoc",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "easter-pet-01",
+        "name": "Wielkanoc — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "easter-pet-02",
+        "name": "Wielkanoc — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "easter-pet-03",
+        "name": "Wielkanoc — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "easter-pet-04",
+        "name": "Wielkanoc — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "easter-pet-05",
+        "name": "Wielkanoc — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "easter-pet-06",
+        "name": "Wielkanoc — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "easter-pet-07",
+        "name": "Wielkanoc — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "easter-pet-08",
+        "name": "Wielkanoc — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "easter-pet-09",
+        "name": "Wielkanoc — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "easter-pet-10",
+        "name": "Wielkanoc — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "easter-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "easter-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "easter-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "easter-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "easter-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "easter-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "easter-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "easter-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "easter-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "easter-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "easter-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "easter-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "easter-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "easter-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "easter-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "easter-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "easter-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "easter-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "easter-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "easter-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "easter-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "easter-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "easter-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "easter-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "easter-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "easter-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "easter-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "easter-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "easter-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "newyear",
+    "title": "🎆 Nowy Rok",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "newyear-pet-01",
+        "name": "Nowy Rok — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "newyear-pet-02",
+        "name": "Nowy Rok — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "newyear-pet-03",
+        "name": "Nowy Rok — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "newyear-pet-04",
+        "name": "Nowy Rok — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "newyear-pet-05",
+        "name": "Nowy Rok — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "newyear-pet-06",
+        "name": "Nowy Rok — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "newyear-pet-07",
+        "name": "Nowy Rok — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "newyear-pet-08",
+        "name": "Nowy Rok — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "newyear-pet-09",
+        "name": "Nowy Rok — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "newyear-pet-10",
+        "name": "Nowy Rok — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "newyear-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "newyear-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "newyear-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "newyear-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "newyear-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "newyear-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "newyear-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "newyear-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "newyear-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "newyear-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "newyear-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "newyear-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "newyear-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "newyear-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "newyear-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "newyear-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "newyear-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "newyear-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "newyear-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "newyear-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "newyear-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "newyear-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "newyear-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "newyear-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "newyear-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "newyear-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "newyear-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "newyear-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "newyear-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "valentine",
+    "title": "💝 Walentynki",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "valentine-pet-01",
+        "name": "Walentynki — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "valentine-pet-02",
+        "name": "Walentynki — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "valentine-pet-03",
+        "name": "Walentynki — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "valentine-pet-04",
+        "name": "Walentynki — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "valentine-pet-05",
+        "name": "Walentynki — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "valentine-pet-06",
+        "name": "Walentynki — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "valentine-pet-07",
+        "name": "Walentynki — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "valentine-pet-08",
+        "name": "Walentynki — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "valentine-pet-09",
+        "name": "Walentynki — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "valentine-pet-10",
+        "name": "Walentynki — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "valentine-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "valentine-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "valentine-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "valentine-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "valentine-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "valentine-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "valentine-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "valentine-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "valentine-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "valentine-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "valentine-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "valentine-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "valentine-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "valentine-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "valentine-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "valentine-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "valentine-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "valentine-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "valentine-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "valentine-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "valentine-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "valentine-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "valentine-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "valentine-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "valentine-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "valentine-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "valentine-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "valentine-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "valentine-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "summer",
+    "title": "☀️ Wakacje",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "summer-pet-01",
+        "name": "Wakacje — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "summer-pet-02",
+        "name": "Wakacje — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "summer-pet-03",
+        "name": "Wakacje — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "summer-pet-04",
+        "name": "Wakacje — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "summer-pet-05",
+        "name": "Wakacje — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "summer-pet-06",
+        "name": "Wakacje — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "summer-pet-07",
+        "name": "Wakacje — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "summer-pet-08",
+        "name": "Wakacje — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "summer-pet-09",
+        "name": "Wakacje — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "summer-pet-10",
+        "name": "Wakacje — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "summer-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "summer-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "summer-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "summer-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "summer-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "summer-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "summer-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "summer-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "summer-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "summer-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "summer-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "summer-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "summer-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "summer-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "summer-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "summer-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "summer-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "summer-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "summer-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "summer-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "summer-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "summer-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "summer-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "summer-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "summer-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "summer-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "summer-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "summer-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "summer-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "blackfriday",
+    "title": "🛍️ Black Friday",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "blackfriday-pet-01",
+        "name": "Black Friday — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "blackfriday-pet-02",
+        "name": "Black Friday — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "blackfriday-pet-03",
+        "name": "Black Friday — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "blackfriday-pet-04",
+        "name": "Black Friday — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "blackfriday-pet-05",
+        "name": "Black Friday — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "blackfriday-pet-06",
+        "name": "Black Friday — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "blackfriday-pet-07",
+        "name": "Black Friday — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "blackfriday-pet-08",
+        "name": "Black Friday — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "blackfriday-pet-09",
+        "name": "Black Friday — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "blackfriday-pet-10",
+        "name": "Black Friday — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "blackfriday-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "blackfriday-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "blackfriday-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "blackfriday-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "blackfriday-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "blackfriday-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "blackfriday-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "blackfriday-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "blackfriday-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "blackfriday-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "blackfriday-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "blackfriday-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "blackfriday-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "blackfriday-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "blackfriday-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "blackfriday-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "blackfriday-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "blackfriday-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "blackfriday-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "blackfriday-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "blackfriday-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "blackfriday-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "blackfriday-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "blackfriday-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "blackfriday-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "blackfriday-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "blackfriday-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "blackfriday-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "blackfriday-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "anniversary",
+    "title": "🎂 Rocznica SPORTIVRA",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "anniversary-pet-01",
+        "name": "Rocznica SPORTIVRA — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "anniversary-pet-02",
+        "name": "Rocznica SPORTIVRA — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "anniversary-pet-03",
+        "name": "Rocznica SPORTIVRA — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "anniversary-pet-04",
+        "name": "Rocznica SPORTIVRA — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "anniversary-pet-05",
+        "name": "Rocznica SPORTIVRA — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "anniversary-pet-06",
+        "name": "Rocznica SPORTIVRA — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "anniversary-pet-07",
+        "name": "Rocznica SPORTIVRA — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "anniversary-pet-08",
+        "name": "Rocznica SPORTIVRA — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "anniversary-pet-09",
+        "name": "Rocznica SPORTIVRA — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "anniversary-pet-10",
+        "name": "Rocznica SPORTIVRA — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "anniversary-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "anniversary-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "anniversary-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "anniversary-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "anniversary-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "anniversary-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "anniversary-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "anniversary-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "anniversary-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "anniversary-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "anniversary-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "anniversary-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "anniversary-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "anniversary-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "anniversary-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "anniversary-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "anniversary-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "anniversary-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "anniversary-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "anniversary-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "anniversary-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "anniversary-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "anniversary-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "anniversary-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "anniversary-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "anniversary-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "anniversary-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "anniversary-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "anniversary-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "winter",
+    "title": "❄️ Zima",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "winter-pet-01",
+        "name": "Zima — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "winter-pet-02",
+        "name": "Zima — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "winter-pet-03",
+        "name": "Zima — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "winter-pet-04",
+        "name": "Zima — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "winter-pet-05",
+        "name": "Zima — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "winter-pet-06",
+        "name": "Zima — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "winter-pet-07",
+        "name": "Zima — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "winter-pet-08",
+        "name": "Zima — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "winter-pet-09",
+        "name": "Zima — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "winter-pet-10",
+        "name": "Zima — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "winter-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "winter-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "winter-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "winter-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "winter-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "winter-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "winter-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "winter-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "winter-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "winter-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "winter-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "winter-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "winter-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "winter-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "winter-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "winter-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "winter-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "winter-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "winter-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "winter-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "winter-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "winter-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "winter-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "winter-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "winter-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "winter-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "winter-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "winter-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "winter-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "spring",
+    "title": "🌸 Wiosna",
+    "category": "season",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "spring-pet-01",
+        "name": "Wiosna — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "spring-pet-02",
+        "name": "Wiosna — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "spring-pet-03",
+        "name": "Wiosna — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "spring-pet-04",
+        "name": "Wiosna — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "spring-pet-05",
+        "name": "Wiosna — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "spring-pet-06",
+        "name": "Wiosna — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "spring-pet-07",
+        "name": "Wiosna — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "spring-pet-08",
+        "name": "Wiosna — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "spring-pet-09",
+        "name": "Wiosna — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "spring-pet-10",
+        "name": "Wiosna — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "spring-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "spring-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "spring-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "spring-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "spring-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "spring-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "spring-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "spring-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "spring-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "spring-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "spring-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "spring-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "spring-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "spring-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "spring-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "spring-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "spring-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "spring-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "spring-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "spring-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "spring-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "spring-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "spring-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "spring-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "spring-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "spring-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "spring-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "spring-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "spring-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  },
+  {
+    "id": "launch",
+    "title": "🚀 Premiera SPORTIVRA",
+    "category": "special",
+    "petCount": 10,
+    "eggCount": 3,
+    "pets": [
+      {
+        "id": "launch-pet-01",
+        "name": "Premiera SPORTIVRA — Strażnik",
+        "rarity": "common"
+      },
+      {
+        "id": "launch-pet-02",
+        "name": "Premiera SPORTIVRA — Błysk",
+        "rarity": "common"
+      },
+      {
+        "id": "launch-pet-03",
+        "name": "Premiera SPORTIVRA — Mistrz",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "launch-pet-04",
+        "name": "Premiera SPORTIVRA — Legenda",
+        "rarity": "uncommon"
+      },
+      {
+        "id": "launch-pet-05",
+        "name": "Premiera SPORTIVRA — Iskra",
+        "rarity": "rare"
+      },
+      {
+        "id": "launch-pet-06",
+        "name": "Premiera SPORTIVRA — Feniks",
+        "rarity": "rare"
+      },
+      {
+        "id": "launch-pet-07",
+        "name": "Premiera SPORTIVRA — Obrońca",
+        "rarity": "epic"
+      },
+      {
+        "id": "launch-pet-08",
+        "name": "Premiera SPORTIVRA — Tytan",
+        "rarity": "epic"
+      },
+      {
+        "id": "launch-pet-09",
+        "name": "Premiera SPORTIVRA — Duch",
+        "rarity": "legendary"
+      },
+      {
+        "id": "launch-pet-10",
+        "name": "Premiera SPORTIVRA — Korona",
+        "rarity": "legendary"
+      }
+    ],
+    "eggs": [
+      {
+        "id": "launch-egg-1",
+        "name": "Eventowe",
+        "odds": [
+          {
+            "pet_id": "launch-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-02",
+            "weight": 9
+          },
+          {
+            "pet_id": "launch-pet-03",
+            "weight": 8
+          },
+          {
+            "pet_id": "launch-pet-04",
+            "weight": 7
+          },
+          {
+            "pet_id": "launch-pet-05",
+            "weight": 6
+          },
+          {
+            "pet_id": "launch-pet-06",
+            "weight": 5
+          },
+          {
+            "pet_id": "launch-pet-07",
+            "weight": 4
+          },
+          {
+            "pet_id": "launch-pet-08",
+            "weight": 3
+          },
+          {
+            "pet_id": "launch-pet-09",
+            "weight": 2
+          },
+          {
+            "pet_id": "launch-pet-10",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": "launch-egg-2",
+        "name": "Złote Eventowe",
+        "odds": [
+          {
+            "pet_id": "launch-pet-01",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-02",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-03",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-04",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-05",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-06",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-07",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-08",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-09",
+            "weight": 10
+          },
+          {
+            "pet_id": "launch-pet-10",
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "id": "launch-egg-3",
+        "name": "Legendarne Eventowe",
+        "odds": [
+          {
+            "pet_id": "launch-pet-01",
+            "weight": 1
+          },
+          {
+            "pet_id": "launch-pet-02",
+            "weight": 2
+          },
+          {
+            "pet_id": "launch-pet-03",
+            "weight": 3
+          },
+          {
+            "pet_id": "launch-pet-04",
+            "weight": 4
+          },
+          {
+            "pet_id": "launch-pet-05",
+            "weight": 5
+          },
+          {
+            "pet_id": "launch-pet-06",
+            "weight": 6
+          },
+          {
+            "pet_id": "launch-pet-07",
+            "weight": 7
+          },
+          {
+            "pet_id": "launch-pet-08",
+            "weight": 8
+          },
+          {
+            "pet_id": "launch-pet-09",
+            "weight": 9
+          },
+          {
+            "pet_id": "launch-pet-10",
+            "weight": 10
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "id": "launch-mission-1",
+        "title": "Zaloguj się podczas wydarzenia",
+        "target": 1,
+        "reward_coins": 50
+      },
+      {
+        "id": "launch-mission-2",
+        "title": "Rozegraj quiz sportowy",
+        "target": 3,
+        "reward_coins": 100
+      },
+      {
+        "id": "launch-mission-3",
+        "title": "Zdobądź punkty w Fantasy",
+        "target": 50,
+        "reward_coins": 150
+      }
+    ],
+    "shop": [
+      {
+        "id": "launch-frame",
+        "name": "Ramka wydarzenia",
+        "price_coins": 350
+      },
+      {
+        "id": "launch-background",
+        "name": "Tło wydarzenia",
+        "price_coins": 500
+      }
+    ]
+  }
+]
