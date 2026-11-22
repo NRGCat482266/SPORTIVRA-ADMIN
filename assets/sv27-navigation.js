@@ -36,5 +36,16 @@
    button.addEventListener('click',()=>{active=entry?entry[0]:parent;renderPlayer()});
    card.append(button);view.prepend(card);return result;
   };
+ }else{
+  if(typeof ADMIN_PAGES!=='undefined'&&Array.isArray(ADMIN_PAGES)&&!ADMIN_PAGES.includes('🎪 Eventy'))ADMIN_PAGES.push('🎪 Eventy');
+  const prior=renderAdmin;
+  renderAdmin=function(){
+   if(active==='🎪 Eventy'){
+    tabs(ADMIN_PAGES,renderAdmin);
+    if(globalThis.SV27AdminEvents?.open)globalThis.SV27AdminEvents.open();
+    return;
+   }
+   return prior.apply(this,arguments);
+  };
  }
 })();
